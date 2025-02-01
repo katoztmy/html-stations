@@ -1,3 +1,4 @@
 function getData() {
-    return "Station12をクリア!"
+  return "Station12をクリア!";
 }
+
